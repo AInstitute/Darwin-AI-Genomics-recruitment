@@ -79,12 +79,12 @@ career:
     - Dynamic presentation and communication skills
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
   - name: International Compliance Officer
-    location: Hamburg, Germany
+    location: Zhangjiagang, China
     form_action: "#"
-    about: With experience in creating visual directions for tech products, you are
-      able to set the standard and lead designers along the way. You are not only
-      able to execute beautiful user experiences yourself but communicate those concepts
-      to the team and clients.
+    about: With experience in managing and coordinating multinational corporation
+      for high-tech products, you are able to set the standard and lead the coordination
+      along the way. You are not only able to communicate between sub-firms but present
+      those concepts from different countries to the team and clients.
     experiences:
     - "3+ years Development\texperience in a startup environment"
     - Strong knowledge of iOS, Android & Web Platforms
