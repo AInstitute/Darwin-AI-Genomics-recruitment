@@ -7,7 +7,9 @@ description: |-
 about:
   enable: true
   title: Who we're looking for
-  content: Bright, educated and hard working individuals who put professionalism first.
+  content: Having postgraduate degree (Master or PhD) in artificial intelligence,
+    statistics, quantum computation or revelent areas.  We are looking for bright,
+    educated and hard working individuals who put professionalism first.
   video_thumb: images/promo-video-thumbnail.jpg
   video_id: g3-VxLQO7do
 gallery:
