@@ -55,8 +55,9 @@ product:
     project_url: "#"
   - title: Plant health
     image: images/product/gene4.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+    content: The same with human health. Our machine learning are applying to Omics
+      and climate data in plant health. We devote to contributing to human health
+      and our food safety.
     project_url: "#"
 contact:
   enable: true
