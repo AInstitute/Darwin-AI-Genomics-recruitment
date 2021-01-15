@@ -15,9 +15,9 @@ about:
 gallery:
   enable: true
   images:
-  - images/gallery/gallery-01.png
-  - images/gallery/gallery-02.png
-  - images/gallery/gallery-03.png
+  - images/gallery/gallery-01.jpg
+  - images/gallery/gallery-02.jpg
+  - images/gallery/gallery-03.jpg
 funfacts:
   enable: true
   title: amenities for you to enjoy
