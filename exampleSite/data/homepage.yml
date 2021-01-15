@@ -42,7 +42,7 @@ product:
     Below you can find the first product available to help you do so.
   product_item:
   - title: Deep Genome Scan
-    image: images/product/Gene1.jpg
+    image: images/product/Gene1.png
     content: We detect natural selection or genes related diseases using deep learning.
       Our DeepGenomeScan is the world’s first and best genome approach for genome
       scaning. See how DeepGenomeScan works and contribute the to improvement of the
