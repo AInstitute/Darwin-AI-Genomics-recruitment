@@ -1,6 +1,6 @@
 ---
 title: Career at Darwin AI Institute
-layout: Career
+layout: career
 description: |-
   Join us and enjoy the most advanced amazing high-tech environment in the promising Yangtze River delta area. We are interdisciplinary teams looking forward the talents to work with us on AI technology.
   Invest for your future and reap the benefits of working with the worlds first advancement company that puts people first.
@@ -15,12 +15,12 @@ about:
 gallery:
   enable: true
   images:
-  - images/gallery/gallery-01.jpg
-  - images/gallery/gallery-02.jpg
-  - images/gallery/gallery-03.jpg
+  - images/gallery/gallery-01.png
+  - images/gallery/gallery-02.png
+  - images/gallery/gallery-03.png
 funfacts:
   enable: true
-  title: Enjoy working
+  title: amenities for you to enjoy
   funfacts_item:
   - name: Flexible hours
     icon: fa-bicycle
@@ -42,20 +42,20 @@ career:
   enable: true
   title: Job Opening
   job_item:
-  - name: Data Scientist
-    location: EU, United Kindom, working from home
+  - name: Android Developer
+    location: Hamburg, Germany
     form_action: "#"
     about: With experience in creating visual directions for tech products, you are
-      able to set the standard and lead solutions along the way. You are not only
+      able to set the standard and lead designers along the way. You are not only
       able to execute beautiful user experiences yourself but communicate those concepts
       to the team and clients.
     experiences:
-    - 3+ years machine learning experience in a startup environment
-    - Strong knowledge of machine learning and data statistics
+    - "3+ years Development\texperience in a startup environment"
+    - Strong knowledge of iOS, Android & Web Platforms
     - Dynamic presentation and communication skills
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
-  - name: Machine Learning Engineer
-    location: Dundee, UK
+  - name: DevOps Engineer
+    location: Hamburg, Germany
     form_action: "#"
     about: With experience in creating visual directions for tech products, you are
       able to set the standard and lead designers along the way. You are not only
