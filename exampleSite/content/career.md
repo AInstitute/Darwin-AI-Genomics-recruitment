@@ -20,7 +20,7 @@ gallery:
   - images/gallery/gallery-03.jpg
 funfacts:
   enable: true
-  title: amenities for you to enjoy
+  title: Enjoy working
   funfacts_item:
   - name: Flexible hours
     icon: fa-bicycle
