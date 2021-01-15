@@ -41,10 +41,12 @@ product:
     company, the goal is to continuously find areas to help business push forward.
     Below you can find the first product available to help you do so.
   product_item:
-  - title: Ecosystem
+  - title: Deep Genome Scan
     image: images/product/product-03.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+    content: We detect natural selection or genes related diseases using deep learning.
+      Our DeepGenomeScan is the world’s first and best genome approach for genome
+      scaning. See how DeepGenomeScan works and contribute the to improvement of the
+      framework.
     project_url: "#"
   - title: Objects
     image: images/product/product-02.jpg
