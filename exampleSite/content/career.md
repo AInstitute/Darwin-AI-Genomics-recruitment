@@ -86,8 +86,8 @@ career:
       along the way. You are not only able to communicate between sub-firms but present
       those concepts from different countries to the team and clients.
     experiences:
-    - "3+ years Development\texperience in a startup environment"
-    - Strong knowledge of iOS, Android & Web Platforms
+    - 3+ years' experience management
+    - Good at English, knowing Chinese is preferred.
     - Dynamic presentation and communication skills
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
 
