@@ -1,6 +1,6 @@
 ---
 title: Career at Darwin AI Institute
-layout: Career
+layout: career
 description: |-
   Join us and enjoy the most advanced amazing high-tech environment in the promising Yangtze River delta area. We are interdisciplinary teams looking forward the talents to work with us on AI technology.
   Invest for your future and reap the benefits of working with the worlds first advancement company that puts people first.
