@@ -66,16 +66,16 @@ career:
     - Strong knowledge of C++, Python & Web Platforms
     - Dynamic presentation and communication skills
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
-  - name: Operations Manager
-    location: Hamburg, Germany
+  - name: Project Manager
+    location: London, UK
     form_action: "#"
     about: With experience in creating visual directions for tech products, you are
       able to set the standard and lead designers along the way. You are not only
       able to execute beautiful user experiences yourself but communicate those concepts
       to the team and clients.
     experiences:
-    - "3+ years Development\texperience in a startup environment"
-    - Strong knowledge of iOS, Android & Web Platforms
+    - 3+ years experience in marketing
+    - Strong communication skills and marketing management
     - Dynamic presentation and communication skills
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
   - name: International Compliance Officer
