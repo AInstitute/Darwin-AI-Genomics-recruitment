@@ -62,7 +62,7 @@ career:
     experiences:
     - 3+ years machine learning experience in a startup environment
     - Strong knowledge of C++, Python & Web Platforms
-    - Dynamic presentation and communication skills
+    - Good skills at machine learning and data visualization
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
   - name: Project Manager
     location: London, UK
