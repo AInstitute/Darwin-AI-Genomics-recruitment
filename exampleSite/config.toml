@@ -1,6 +1,6 @@
 baseURL = "https://darwin-ai-recruitment.com/"
 googleAnalytics = ""
-theme = "Dar AI Institute"
+theme = "Darwin AI Institute"
 title = "Darwin AI Institute"
 [markup.goldmark.renderer]
 unsafe = true
