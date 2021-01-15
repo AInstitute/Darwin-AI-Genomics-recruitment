@@ -57,10 +57,8 @@ career:
   - name: Machine Learning Engineer
     location: Dundee, UK
     form_action: "#"
-    about: With experience in creating visual directions for tech products, you are
-      able to set the standard and lead designers along the way. You are not only
-      able to execute beautiful user experiences yourself but communicate those concepts
-      to the team and clients.
+    about: With experience in analyzing big data. Good at using visualization tools.
+      Knowing at least two programming languages, R, Python, C++ are preferred.
     experiences:
     - 3+ years machine learning experience in a startup environment
     - Strong knowledge of C++, Python & Web Platforms
